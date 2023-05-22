@@ -48,6 +48,7 @@ rotacion = cv2.getRotationMatrix2D((ancho / 2, alto / 2), angulo_rotada, 1)
 rotada = cv2.warpAffine(image, rotacion, (ancho, alto))
 
 plt.subplot(2, 2, 4)
+plt.title(f'Angulo rotada: {angulo_rotada}')
 ax = plt.imshow(rotada, cmap='gray')
 ax.axes.set_axis_off()
 
