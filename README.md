@@ -1,14 +1,18 @@
 # Listado de ejercicios
 
-1.   Formatos (primer ejercicio: llaves)
-2.   Preprocesamiento (ruedas)
-3.   Piñon
-4.   Llantas
-5.   Segmentacion (edge)
-6.   Descripcion (color forma y textura) -> regiones de una imagen
-7.   Orientacion de las piezas -> poner recto una imagen
-8.   Eliminar objetos pequeños de una imagen binaria
-9.   Eliminar objetos cuya area sea menor a 30%
-10.    Codigo de barra
-11.    Clasificar barras y llaves
-12.    Reconocimiento de placas usando python
+1	Imagen, video, WebCam
+2	Preprocesamiento (ruedas): intensidad de imagen, contraste, escala grises, rgb
+3	Piñon
+4	Llaves
+5	Segmentacion: Umbralizacion, imagen binaria, detencion de bordes
+6	Descripcion: Color, forma, textura
+7	Orientacion 
+8	Dibuje el boundingBox y Centroid de cada objeto presente
+9	Eliminar objetos de una imagen
+10	Elimine los objetos cuya área sean menores al 30% del objetos más grande.
+11	Extraer las líneas del código de barras.
+12	Extraer los números en formato ASCII de los códigos de barras.
+13	Clasificación
+14	puntos y lineas
+
+xx	Reconocimiento de placas vehiculares usando Python.
