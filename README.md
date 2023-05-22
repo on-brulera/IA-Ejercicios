@@ -22,10 +22,10 @@
 
 11	Extraer las líneas del código de barras. [MARLON]
 
-12	Extraer los números en formato ASCII de los códigos de barras.
+12	Extraer los números en formato ASCII de los códigos de barras. [FAICAN]
 
-13	Clasificación
+13	Clasificación [STALIN]
 
-14	puntos y lineas
+14	puntos y lineas [LUIS]
 
 xx	Reconocimiento de placas vehiculares usando Python.
